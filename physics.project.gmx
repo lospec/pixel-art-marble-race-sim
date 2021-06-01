@@ -21,6 +21,8 @@
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
+    <background>background\background1</background>
+    <background>background\background2</background>
   </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
@@ -31,31 +33,27 @@
       <script>scripts\get_fixture.gml</script>
     </scripts>
     <script>scripts\print.gml</script>
+    <script>scripts\split.gml</script>
   </scripts>
   <objects name="objects">
+    <object>objects\oGame</object>
     <object>objects\oWall</object>
-    <object>objects\oRamp</object>
     <object>objects\oPropeller</object>
     <object>objects\oBounce</object>
     <object>objects\oPlayer</object>
-    <object>objects\object3</object>
-    <object>objects\oWallSquare</object>
-    <object>objects\oWallRamp</object>
-    <object>objects\wallplacer</object>
     <object>objects\oPlayPlacer</object>
-    <object>objects\object13</object>
     <objects name="fixture_generator">
       <object>objects\obj_fixture</object>
       <object>objects\obj_perimeter</object>
       <object>objects\obj_fixture_new</object>
       <object>objects\obj_wall</object>
     </objects>
-    <object>objects\oGame</object>
     <object>objects\oGoal</object>
+    <object>objects\oDeletable</object>
+    <object>objects\oCamera</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room0</room>
-    <room>rooms\room2</room>
+    <room>rooms\main</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

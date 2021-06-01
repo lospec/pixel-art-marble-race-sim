@@ -8,18 +8,104 @@
   <sepmasks>0</sepmasks>
   <bboxmode>0</bboxmode>
   <bbox_left>0</bbox_left>
-  <bbox_right>14</bbox_right>
+  <bbox_right>15</bbox_right>
   <bbox_top>0</bbox_top>
-  <bbox_bottom>14</bbox_bottom>
+  <bbox_bottom>15</bbox_bottom>
   <HTile>0</HTile>
   <VTile>0</VTile>
   <TextureGroups>
     <TextureGroup0>0</TextureGroup0>
   </TextureGroups>
   <For3D>0</For3D>
-  <width>15</width>
-  <height>15</height>
+  <width>16</width>
+  <height>16</height>
   <frames>
     <frame index="0">images\sprite0_0.png</frame>
+    <frame index="1">images\sprite0_1.png</frame>
+    <frame index="2">images\sprite0_2.png</frame>
+    <frame index="3">images\sprite0_3.png</frame>
+    <frame index="4">images\sprite0_4.png</frame>
+    <frame index="5">images\sprite0_5.png</frame>
+    <frame index="6">images\sprite0_6.png</frame>
+    <frame index="7">images\sprite0_7.png</frame>
+    <frame index="8">images\sprite0_8.png</frame>
+    <frame index="9">images\sprite0_9.png</frame>
+    <frame index="10">images\sprite0_10.png</frame>
+    <frame index="11">images\sprite0_11.png</frame>
+    <frame index="12">images\sprite0_12.png</frame>
+    <frame index="13">images\sprite0_13.png</frame>
+    <frame index="14">images\sprite0_14.png</frame>
+    <frame index="15">images\sprite0_15.png</frame>
+    <frame index="16">images\sprite0_16.png</frame>
+    <frame index="17">images\sprite0_17.png</frame>
+    <frame index="18">images\sprite0_18.png</frame>
+    <frame index="19">images\sprite0_19.png</frame>
+    <frame index="20">images\sprite0_20.png</frame>
+    <frame index="21">images\sprite0_21.png</frame>
+    <frame index="22">images\sprite0_22.png</frame>
+    <frame index="23">images\sprite0_23.png</frame>
+    <frame index="24">images\sprite0_24.png</frame>
+    <frame index="25">images\sprite0_25.png</frame>
+    <frame index="26">images\sprite0_26.png</frame>
+    <frame index="27">images\sprite0_27.png</frame>
+    <frame index="28">images\sprite0_28.png</frame>
+    <frame index="29">images\sprite0_29.png</frame>
+    <frame index="30">images\sprite0_30.png</frame>
+    <frame index="31">images\sprite0_31.png</frame>
+    <frame index="32">images\sprite0_32.png</frame>
+    <frame index="33">images\sprite0_33.png</frame>
+    <frame index="34">images\sprite0_34.png</frame>
+    <frame index="35">images\sprite0_35.png</frame>
+    <frame index="36">images\sprite0_36.png</frame>
+    <frame index="37">images\sprite0_37.png</frame>
+    <frame index="38">images\sprite0_38.png</frame>
+    <frame index="39">images\sprite0_39.png</frame>
+    <frame index="40">images\sprite0_40.png</frame>
+    <frame index="41">images\sprite0_41.png</frame>
+    <frame index="42">images\sprite0_42.png</frame>
+    <frame index="43">images\sprite0_43.png</frame>
+    <frame index="44">images\sprite0_44.png</frame>
+    <frame index="45">images\sprite0_45.png</frame>
+    <frame index="46">images\sprite0_46.png</frame>
+    <frame index="47">images\sprite0_47.png</frame>
+    <frame index="48">images\sprite0_48.png</frame>
+    <frame index="49">images\sprite0_49.png</frame>
+    <frame index="50">images\sprite0_50.png</frame>
+    <frame index="51">images\sprite0_51.png</frame>
+    <frame index="52">images\sprite0_52.png</frame>
+    <frame index="53">images\sprite0_53.png</frame>
+    <frame index="54">images\sprite0_54.png</frame>
+    <frame index="55">images\sprite0_55.png</frame>
+    <frame index="56">images\sprite0_56.png</frame>
+    <frame index="57">images\sprite0_57.png</frame>
+    <frame index="58">images\sprite0_58.png</frame>
+    <frame index="59">images\sprite0_59.png</frame>
+    <frame index="60">images\sprite0_60.png</frame>
+    <frame index="61">images\sprite0_61.png</frame>
+    <frame index="62">images\sprite0_62.png</frame>
+    <frame index="63">images\sprite0_63.png</frame>
+    <frame index="64">images\sprite0_64.png</frame>
+    <frame index="65">images\sprite0_65.png</frame>
+    <frame index="66">images\sprite0_66.png</frame>
+    <frame index="67">images\sprite0_67.png</frame>
+    <frame index="68">images\sprite0_68.png</frame>
+    <frame index="69">images\sprite0_69.png</frame>
+    <frame index="70">images\sprite0_70.png</frame>
+    <frame index="71">images\sprite0_71.png</frame>
+    <frame index="72">images\sprite0_72.png</frame>
+    <frame index="73">images\sprite0_73.png</frame>
+    <frame index="74">images\sprite0_74.png</frame>
+    <frame index="75">images\sprite0_75.png</frame>
+    <frame index="76">images\sprite0_76.png</frame>
+    <frame index="77">images\sprite0_77.png</frame>
+    <frame index="78">images\sprite0_78.png</frame>
+    <frame index="79">images\sprite0_79.png</frame>
+    <frame index="80">images\sprite0_80.png</frame>
+    <frame index="81">images\sprite0_81.png</frame>
+    <frame index="82">images\sprite0_82.png</frame>
+    <frame index="83">images\sprite0_83.png</frame>
+    <frame index="84">images\sprite0_84.png</frame>
+    <frame index="85">images\sprite0_85.png</frame>
+    <frame index="86">images\sprite0_86.png</frame>
   </frames>
 </sprite>
