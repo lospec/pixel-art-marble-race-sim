@@ -10,7 +10,7 @@ Controls
 
 	T	            Test Level
 	E	            Export (save level to text, not final)
-  P             Place Players (not implimented)
-  I             Import Level data (deletes current, not implimented)
-  G             Place goalpost (not implimented)
+  	P             Place Players (not implimented)
+  	I             Import Level data (deletes current, not implimented)
+  	G             Place goalpost (not implimented)
   
